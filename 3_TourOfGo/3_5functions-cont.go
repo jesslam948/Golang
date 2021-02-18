@@ -1,6 +1,7 @@
 // Definition: More things we can do with functions
 // Resources:
 //	https://tour.golang.org/basics/6
+//	https://tour.golang.org/basics/7
 
 package main
 
