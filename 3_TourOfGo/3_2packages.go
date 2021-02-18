@@ -3,6 +3,7 @@
 // Resources:
 //	https://stackoverflow.com/questions/39529364/go-rand-intn-same-number-value
 //	https://tour.golang.org/basics/1
+//	https://tour.golang.org/basics/2
 
 package main
 
