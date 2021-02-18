@@ -1,4 +1,4 @@
-# Golang
+# Learn-Golang
 Scratchspace for learning Go
 
 ## Resources:
