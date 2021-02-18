@@ -1,4 +1,4 @@
-// This program prints quotes using a package
+// Description: This program prints quotes using a package
 
 package main
 

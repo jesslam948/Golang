@@ -1,4 +1,4 @@
-// Simple Go program that prints 'Hello, World!'
+// Description: Simple Go program that prints 'Hello, World!'
 
 package main
 
