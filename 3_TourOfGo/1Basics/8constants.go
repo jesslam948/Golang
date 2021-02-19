@@ -8,6 +8,7 @@ package main
 import "fmt"
 
 // part 1
+// note that constants cannot be declared using :=
 const Pi = 3.14
 
 // part 2
