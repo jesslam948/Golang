@@ -1,4 +1,4 @@
-// Definition: Play with structs in Go
+// Description: Play with structs in Go
 // References:
 //	https://tour.golang.org/moretypes/2
 //	https://tour.golang.org/moretypes/3

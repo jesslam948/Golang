@@ -1,4 +1,4 @@
-// Definition: Play around with switch statements
+// Description: Play around with switch statements
 // References:
 //	https://tour.golang.org/flowcontrol/9
 //	https://tour.golang.org/flowcontrol/10
